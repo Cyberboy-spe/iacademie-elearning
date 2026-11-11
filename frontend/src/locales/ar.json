@@ -1,0 +1,37 @@
+{
+  "app_name": "IACADEMIE",
+  "login": "تسجيل الدخول",
+  "register": "إنشاء حساب",
+  "register_title": "إنشاء حساب",
+  "register_subtitle": "قم بالتسجيل للوصول إلى المنصة",
+  "full_name": "الاسم الكامل",
+  "email": "البريد الإلكتروني",
+  "password": "كلمة المرور",
+  "confirm_password": "تأكيد كلمة المرور",
+  "submit_register": "تسجيل",
+  "already_have_account": "لديك حساب بالفعل؟",
+  "submit_login": "دخول",
+  "login_title": "تسجيل الدخول",
+  "login_subtitle": "سجل الدخول إلى حسابك",
+  "dont_have_account": "ليس لديك حساب؟",
+
+
+
+ 
+    "welcome": "مرحبًا بك في لوحة التحكم 👋",
+    "subtitle": "نظرة عامة على منصة IACADEMIE ERP واختبار الاتصال بالواجهة البرمجية.",
+    "menu_principal": "القائمة الرئيسية",
+    "administration": "الإدارة",
+    "tableau_de_bord": "لوحة القيادة",
+    "gestion_commerciale": "إدارة المبيعات",
+    "stock_inventaire": "المخزون والمخازن",
+    "utilisateurs_roles": "المستخدمين والأدوار",
+    "gestion_cours": "إدارة الدروس",
+    "formations": "الدورات التدريبية",
+    "deconnexion": "تسجيل الخروج",
+    "utilisateurs_totaux": "إجمالي المستخدمين",
+    "cours_disponibles": "الدروس المتاحة",
+    "formations_actives": "الدورات النشطة"
+  
+
+}

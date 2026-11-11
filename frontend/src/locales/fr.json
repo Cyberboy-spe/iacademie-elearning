@@ -1,0 +1,36 @@
+{
+  "app_name": "IACADEMIE",
+  "login": "Connexion",
+  "register": "Inscription",
+  "register_title": "Créer un compte",
+  "register_subtitle": "Inscrivez-vous pour accéder à la plateforme",
+  "full_name": "Nom complet",
+  "email": "Adresse Email",
+  "password": "Mot de passe",
+  "confirm_password": "Confirmer le mot de passe",
+  "submit_register": "S'inscrire",
+  "already_have_account": "Vous avez déjà un compte ?",
+  "submit_login": "Se connecter",
+  "login_title": "Connexion",
+  "login_subtitle": "Connectez-vous à votre compte",
+  "dont_have_account": "Vous n'avez pas de compte ?",
+
+
+
+  
+    "welcome": "Bienvenue sur le Tableau de Bord 👋",
+    "subtitle": "Vue d'ensemble de la plateforme IACADEMIE ERP et test de communication API.",
+    "menu_principal": "Menu Principal",
+    "administration": "Administration",
+    "tableau_de_bord": "Tableau de Bord",
+    "gestion_commerciale": "Gestion Commerciale",
+    "stock_inventaire": "Stock & Inventaire",
+    "utilisateurs_roles": "Utilisateurs & Rôles",
+    "gestion_cours": "Gestion des Cours",
+    "formations": "Formations",
+    "deconnexion": "Déconnexion",
+    "utilisateurs_totaux": "Utilisateurs Totaux",
+    "cours_disponibles": "Cours Disponibles",
+    "formations_actives": "Formations Actives"
+  
+}
